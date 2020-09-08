@@ -2,23 +2,30 @@ h1{
     color:violet
 }
 .Camel{
-    border:bold
-}
-.Camel{
-    color:indigo
+    color:indigo;
+    text-align: center
 }
 .Chameleon{
-    color:iblue
+    color:blue;
+    text-align: center
 }
 .Pigeon{
-    color:green
+    color:green;
+    text-align: center
 }
 .TeddyBear{
-    color:yellow
+    color:yellow;
+    text-align: center
 }
 .Panda{
-    color:orange
+    color:orange;
+    text-align: center
 }
 .FlyingCicada{
-    color:red
+    color:red;
+    text-align: center
+}
+.Origami{
+background-color:lemonchiffon;
+border:blanchedalmond
 }
